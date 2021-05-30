@@ -77,7 +77,7 @@ We have provided two endpoints for returning information on products. These will
 
 #### `/:productId/price`
 
-Example response:
+**Example response:**
 
 ```ts
 {
