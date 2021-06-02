@@ -16,7 +16,7 @@ The application should consist of the following:
   - Product category
   - Brand
 
-### Product detail: `/:products/:productId`
+### Product detail: `/products/:productId`
 
 - View product information
 - Images
